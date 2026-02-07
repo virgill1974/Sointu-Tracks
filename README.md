@@ -5,17 +5,17 @@ A growing collection of Sointu / 4klang compositions by Virgill. Sointu is a mod
 ## Night Ride (8k Intro)
 
 - **Title:** Night Ride
-- **Origin:** Soundtrack from the 8k intro ["Night Ride" by Brain Control](https://www.pouet.net/prod.php?which=98212)
+- **Origin:** Soundtrack from the 8k intro ["Night Ride" by Ctrl-Alt-Test](https://www.pouet.net/prod.php?which=98212)
 - **Style:** Synthwave with warm basslines, glassy FM chords and a minimal groove
-- **Format:** Pure Sointu/4klang setup (score + patch data) – perfect for analysis, remixes or as a starting point for your own low-size synth explorations
+- **Format:** Pure Sointu setup (score + patch data) – perfect for analysis, remixes or as a starting point for your own low-size synth explorations
 - **Files:** `tracks/night-ride/night-ride.yaml`
 
 ## Yttrium (8k Intro)
 
 - **Title:** Yttrium
-- **Origin:** Ambient/orchestral score from the 8k intro ["Yttrium" by Brain Control](https://www.pouet.net/prod.php?which=104552)
-- **Style:** Dark, slow-burning atmospheres with orchestral swells, ghostly pads and heavy bass pulses
-- **Format:** Complete Sointu/4klang score + patches highlighting layered strings, deep drones and noisy textures
+- **Origin:** Ambient/orchestral score from the 8k intro ["Yttrium" by Alcatraz](https://www.pouet.net/prod.php?which=104552)
+- **Style:** Dark, slow-burning atmospheres with orchestral swells.
+- **Format:** Complete Sointu score + patches highlighting strings, deep drones and noisy textures
 - **Files:** `tracks/yttrium/yttrium.yaml`
 
 ### Rendering
