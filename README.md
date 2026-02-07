@@ -5,9 +5,9 @@ Eine wachsende Sammlung von Sointu-/4klang-Kompositionen von Virgill. Sointu ist
 ## Night Ride (8k Intro)
 
 - **Titel:** Night Ride
-- **Szene:** Soundtrack aus dem 8k Intro ["Night Ride" von Brain Control](https://www.pouet.net/prod.php?which=98212)
+- **Szene:** Soundtrack aus dem 8k Intro ["Night Ride"](https://www.pouet.net/prod.php?which=98212)
 - **Stil:** Synthwave mit viel Liebe zu warmen Bässen, glitzernden FM-Chords und minimalistischem Groove
-- **Format:** Reines Sointu/4klang-Setup (Score + Patchdaten) – perfekt zum Analysieren, Remixen oder als Ausgangsbasis für eigene Low-Size-Synth-Experimente
+- **Format:** Reines Sointu-Setup (Score + Patchdaten) – perfekt zum Analysieren, Remixen oder als Ausgangsbasis für eigene Low-Size-Synth-Experimente
 - **Dateien:** `tracks/night-ride/night-ride.yaml`
 
 ### Rendern
