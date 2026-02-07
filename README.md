@@ -1,27 +1,27 @@
 # Sointu Tracks
 
-Eine wachsende Sammlung von Sointu-/4klang-Kompositionen von Virgill. Sointu ist ein moderner Fork des klassischen 4klang-Softsynths und eignet sich perfekt für extrem kleine Executables (4k/8k Intros, Trackmos und ähnliche Produktionen).
+A growing collection of Sointu / 4klang compositions by Virgill. Sointu is a modern fork of the classic 4klang soft synth and ideal for ultra-small binaries (4k/8k intros, trackmos, etc.).
 
 ## Night Ride (8k Intro)
 
-- **Titel:** Night Ride
-- **Szene:** Soundtrack aus dem 8k Intro ["Night Ride"](https://www.pouet.net/prod.php?which=98212)
-- **Stil:** Synthwave mit viel Liebe zu warmen Bässen, glitzernden FM-Chords und minimalistischem Groove
-- **Format:** Reines Sointu-Setup (Score + Patchdaten) – perfekt zum Analysieren, Remixen oder als Ausgangsbasis für eigene Low-Size-Synth-Experimente
-- **Dateien:** `tracks/night-ride/night-ride.yaml`
+- **Title:** Night Ride
+- **Origin:** Soundtrack from the 8k intro ["Night Ride" by Brain Control](https://www.pouet.net/prod.php?which=98212)
+- **Style:** Synthwave with warm basslines, glassy FM chords and a minimal groove
+- **Format:** Pure Sointu/4klang setup (score + patch data) – perfect for analysis, remixes or as a starting point for your own low-size synth explorations
+- **Files:** `tracks/night-ride/night-ride.yaml`
 
-### Rendern
+### Rendering
 
-1. Sointu CLI oder das passende Plugin installieren (siehe [Sointu auf GitHub](https://github.com/vsariola/sointu)).
-2. Das YAML in dein Setup importieren oder mit dem `sointu`-CLI-Tool rendern (`sointu render night-ride.yaml -o night-ride.wav`).
-3. Optional eigene Automationen/Pattern hinzufügen und wieder exportieren.
+1. Install the Sointu CLI or plugin (see the [Sointu GitHub repo](https://github.com/vsariola/sointu)).
+2. Import the YAML into your setup or render via CLI, e.g. `sointu render night-ride.yaml -o night-ride.wav`.
+3. Add your own automation/patterns and export again if needed.
 
-*(MP3/OGG liefern wir nach – Fokus hier ist der originale Synth-Source.)*
+*(MP3/OGG to follow – focus here is the original synth source.)*
 
-## Lizenz
+## License
 
-Alle Dateien in diesem Repository stehen unter **Creative Commons BY-NC 4.0**. Du darfst die Tracks remixen, analysieren und in nicht-kommerziellen Releases verwenden, solange du Virgill nennst und keine kommerziellen Produkte daraus machst.
+All files in this repository are released under **Creative Commons BY-NC 4.0**. You may remix, analyze and use the material in non-commercial releases as long as you credit Virgill and stay non-commercial.
 
-## Mitmachen / Weitere Tracks
+## Contributing / More Tracks
 
-Dieses Repo soll nach und nach weitere Sointu-Experimente enthalten (alte 4k/8k Tunes, neue Sketches, vielleicht komplette Soundtracks). Pull Requests mit eigenen Optimierungen, Render-Skripten oder Portierungen sind willkommen – bitte in Deutsch oder Englisch beschreiben und die BY-NC-Lizenz respektieren.
+This repo will steadily grow with more Sointu experiments (old 4k/8k tunes, new sketches, maybe full soundtracks). Pull requests with improvements, render scripts or ports are welcome – just describe your changes in English or German and respect the BY-NC license.
