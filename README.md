@@ -10,6 +10,14 @@ A growing collection of Sointu / 4klang compositions by Virgill. Sointu is a mod
 - **Format:** Pure Sointu/4klang setup (score + patch data) – perfect for analysis, remixes or as a starting point for your own low-size synth explorations
 - **Files:** `tracks/night-ride/night-ride.yaml`
 
+## Yttrium (8k Intro)
+
+- **Title:** Yttrium
+- **Origin:** Ambient/orchestral score from the 8k intro ["Yttrium" by Brain Control](https://www.pouet.net/prod.php?which=104552)
+- **Style:** Dark, slow-burning atmospheres with orchestral swells, ghostly pads and heavy bass pulses
+- **Format:** Complete Sointu/4klang score + patches highlighting layered strings, deep drones and noisy textures
+- **Files:** `tracks/yttrium/yttrium.yaml`
+
 ### Rendering
 
 1. Install the Sointu CLI or plugin (see the [Sointu GitHub repo](https://github.com/vsariola/sointu)).
