@@ -16,7 +16,7 @@ A growing collection of Sointu / 4klang compositions by Virgill. Sointu is a mod
 - **Origin:** Ambient/orchestral score from the 4k intro ["Yttrium" by Alcatraz](https://www.pouet.net/prod.php?which=104552)
 - **Style:** Dark, slow-burning atmospheres with orchestral swells.
 - **Format:** Complete Sointu score + patches highlighting strings, deep drones and noisy textures
-- **Files:** `tracks/yttrium/yttrium.yaml`
+- **Files:** `tracks/yttrium/yttrium.yaml`, `tracks/yttrium/yttrium.mp3`
 
 ### Rendering
 
@@ -24,7 +24,7 @@ A growing collection of Sointu / 4klang compositions by Virgill. Sointu is a mod
 2. Import the YAML into your setup or render via CLI, e.g. `sointu render night-ride.yaml -o night-ride.wav`.
 3. Add your own automation/patterns and export again if needed.
 
-*(MP3/OGG to follow – focus here is the original synth source.)*
+*Night Ride is source-only for now; Yttrium also ships with an MP3 reference render.*
 
 ## License
 
