@@ -8,7 +8,7 @@ A growing collection of Sointu / 4klang compositions by Virgill. Sointu is a mod
 - **Origin:** Soundtrack from the 8k intro ["Night Ride" by Ctrl-Alt-Test](https://www.pouet.net/prod.php?which=98212)
 - **Style:** Synthwave with warm basslines, glassy FM chords and a minimal groove
 - **Format:** Pure Sointu setup (score + patch data) – perfect for analysis or as a starting point for your own low-size synth explorations
-- **Files:** `tracks/night-ride/night-ride.yaml`
+- **Files:** `tracks/night-ride/night-ride.yaml`, `tracks/night-ride/night-ride.mp3`
 
 ## Yttrium (4k Intro)
 
@@ -23,7 +23,7 @@ A growing collection of Sointu / 4klang compositions by Virgill. Sointu is a mod
 1. Install the Sointu CLI or plugin (see the [Sointu GitHub repo](https://github.com/vsariola/sointu)).
 2. Import the YAML into your setup or render via CLI, e.g. `sointu render night-ride.yaml -o night-ride.wav`.
 
-*Night Ride is source-only for now; Yttrium also ships with an MP3 reference render.*
+*Both tracks include the source YAML plus an MP3 reference render for quick listening.*
 
 ## License
 
